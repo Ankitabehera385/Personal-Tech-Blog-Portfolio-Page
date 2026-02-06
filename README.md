@@ -35,5 +35,6 @@ This project is built as a beginner-friendly web application using core web tech
 
 ---
 
-## 📂 Project Structure
+
+
 
