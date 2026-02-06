@@ -30,10 +30,9 @@ This project is built as a beginner-friendly web application using core web tech
 ## 🛠️ Technologies Used
 
 - **HTML** – Structure of the website  
-- **CSS** – Styling and layout  
-- **JavaScript** – Basic interactivity  
 
 ---
+
 
 
 
